@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# AgriShield - AI Powered Crop Protection
+
+A mobile app that helps farmers protect crops from weather, pests, and diseases using AI.
+
+## Features
+- 📸 Click photo of crop problem
+- 🤖 AI-powered diagnosis 
+- ⚡ Instant solutions
+- 🌦️ Weather alerts
+
+## Technology Stack
+- React Native (Mobile App)
+- Node.js (Backend)
+- OpenAI GPT-4V (AI)
+- MongoDB (Database)
+
+## Development Setup
+Coming soon...
